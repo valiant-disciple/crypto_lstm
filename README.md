@@ -1,0 +1,1 @@
+We use a recursive LSTM to predict one curve through ohlcv and the other is vader giving a sentiment analysis score to each day and predict close value with that. A weighted agv is taken for the final result.
